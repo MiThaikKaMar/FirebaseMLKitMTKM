@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FirebaseMLKitMTKM</string>
+    <string name="take_photo">Take Photo</string>
+    <string name="find_face">Find Face</string>
+    <string name="find_text">Find Text</string>
+    <string name="cannot_detect_face">Cannot detect face!!</string>
+    <string name="cannot_detect_text">Can not detect Text!!</string>
+</resources>
